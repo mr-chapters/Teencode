@@ -17,10 +17,12 @@ JavaScript is a programming language used in browsers and many other environment
 8. [Modern JavaScript](08-modern-js.md)
 9. [Asynchronous JavaScript and Fetch](09-async-fetch.md)
 10. [Modules](10-modules.md)
+11. [JSON and Local Storage](11-json-storage.md)
+12. [Testing and Debugging](12-testing-debugging.md)
 
 ## Project
 
-11. [Interactive Page Project](project-interactive-page.md)
+13. [Interactive Page Project](project-interactive-page.md)
 
 ## Learning Rule
 
@@ -30,9 +32,10 @@ For every lesson:
 3. Change a value and predict the result.
 4. Complete the practice tasks.
 5. Build the challenge without copying a solution.
+6. Use browser developer tools when something does not behave as expected.
 
-## What You Should Know Before Python
+## What You Should Know Before Moving On
 
-You should be comfortable with variables, values and types, conditions, loops, functions, arrays, objects, DOM manipulation, events, errors, asynchronous code, and modules.
+You should be comfortable with variables, values and types, conditions, loops, functions, arrays, objects, DOM manipulation, events, errors, asynchronous code, JSON, browser storage, modules, and basic debugging.
 
 Next: [Python](../04-Python/README.md)
