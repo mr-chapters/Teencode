@@ -1,9 +1,12 @@
-# 05 Git and GitHub
+# Git and GitHub
 
-This section is part of the TeenCode curriculum.
-
-Lessons will be added here step by step.
+Learn how to track code changes and collaborate.
 
 ## Lessons
+1. [What Git Is](01-what-is-git.md)
+2. [Repositories and Commits](02-repositories-commits.md)
+3. [Branches and Merging](03-branches.md)
+4. [GitHub Workflow](04-github-workflow.md)
+5. [Git Project](project-git-workflow.md)
 
-Lesson pages will appear here as the section is built.
+Next: [Web Development](../06-Web-Development/README.md)
