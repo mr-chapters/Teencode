@@ -1,9 +1,11 @@
-# 09 Projects
+# Projects
 
-This section is part of the TeenCode curriculum.
+Projects turn lessons into experience.
 
-Lessons will be added here step by step.
+## Project Levels
+1. [Beginner Project](01-beginner.md)
+2. [Intermediate Project](02-intermediate.md)
+3. [Web Project](03-web.md)
+4. [Final Project](04-final.md)
 
-## Lessons
-
-Lesson pages will appear here as the section is built.
+Next: [Real-World Development](../10-Real-World-Development/README.md)
