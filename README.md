@@ -81,6 +81,22 @@ Projects are an important part of the curriculum. Learners should eventually be 
 
 Errors are normal. Debugging is not a sign that you are bad at programming. It is one of the main skills developers develop.
 
+## Start Learning
+
+Click a section below to open its lessons:
+
+- [00 - Getting Started](00-Getting-Started/README.md)
+- [01 - HTML](01-HTML/README.md)
+- [02 - CSS](02-CSS/README.md)
+- [03 - JavaScript](03-JavaScript/README.md)
+- [04 - Python](04-Python/README.md)
+- [05 - Git and GitHub](05-Git-and-GitHub/README.md)
+- [06 - Web Development](06-Web-Development/README.md)
+- [07 - Application Development](07-Application-Development/README.md)
+- [08 - Game Development](08-Game-Development/README.md)
+- [09 - Projects](09-Projects/README.md)
+- [10 - Real-World Development](10-Real-World-Development/README.md)
+
 ## Planned Curriculum
 
 ### 00 - Getting Started
