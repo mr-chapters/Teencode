@@ -12,17 +12,23 @@ This section teaches Python from the beginning and gradually introduces the idea
 4. [Functions and Modules](04-functions-modules.md)
 5. [Files and Errors](05-files-errors.md)
 
-## Deeper Python
+## Core Python Skills
 
 6. [Strings](06-strings.md)
 7. [Lists and Dictionaries](07-lists-dictionaries.md)
-8. [Comprehensions](08-comprehensions.md)
-9. [Classes and Objects](09-classes-objects.md)
-10. [APIs and JSON](10-apis-json.md)
+8. [Tuples and Sets](11-tuples-sets.md)
+9. [Comprehensions](08-comprehensions.md)
+10. [Classes and Objects](09-classes-objects.md)
+
+## Working Like a Python Developer
+
+11. [Packages and Virtual Environments](12-packages-environments.md)
+12. [JSON and APIs](10-apis-json.md)
+13. [Testing Python Programs](13-testing.md)
 
 ## Project
 
-11. [Python Tool Project](project-python-tool.md)
+14. [Python Tool Project](project-python-tool.md)
 
 ## How to Study Python
 
@@ -39,6 +45,6 @@ For each lesson:
 
 ## What You Should Be Able To Do
 
-By the end of this section, you should be able to write small Python programs, use variables and collections, control program flow, create reusable functions, handle errors, work with files and structured data, use classes when appropriate, and understand how a Python program communicates with other software.
+By the end of this section, you should be able to write small Python programs, use variables and collections, control program flow, create reusable functions, handle errors, work with files and structured data, use classes when appropriate, install project dependencies safely, test important behavior, and understand how Python programs communicate with other software.
 
 Next: [Git and GitHub](../05-Git-and-GitHub/README.md)
