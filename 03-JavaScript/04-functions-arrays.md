@@ -1,20 +1,70 @@
-# Lesson 4 - Functions and Arrays
+# JavaScript Functions and Arrays
 
-Functions package reusable behavior.
+Functions and arrays are two of the most important tools for organizing JavaScript programs.
 
-```js
-function greet(name) {
-  return "Hello, " + name;
+## Functions
+
+```javascript
+function add(a, b) {
+  return a + b;
 }
-console.log(greet("Alex"));
+
+const answer = add(4, 7);
+console.log(answer);
 ```
 
-Arrays store ordered collections.
+Parameters are the inputs. `return` gives a result back to the caller.
 
-```js
-const languages = ["HTML", "CSS", "JavaScript"];
-console.log(languages[0]);
+## Arrow functions
+
+You may also see:
+
+```javascript
+const add = (a, b) => a + b;
+```
+
+Learn normal functions first so the shorter syntax makes sense.
+
+## Arrays
+
+Arrays store ordered values.
+
+```javascript
+const scores = [80, 65, 91];
+console.log(scores[0]);
+console.log(scores.length);
+```
+
+Useful methods include:
+
+```javascript
+scores.push(88);
+scores.pop();
+```
+
+## Combining functions and arrays
+
+```javascript
+function average(numbers) {
+  let total = 0;
+
+  for (const number of numbers) {
+    total += number;
+  }
+
+  return total / numbers.length;
+}
+
+console.log(average([70, 80, 90]));
 ```
 
 ## Practice
-Write a function that calculates the total of two numbers and create an array of five project ideas.
+
+Write functions that:
+- find the largest number in an array
+- count passing scores
+- calculate an average
+
+## Challenge
+
+Build a grade calculator that accepts an array of scores and returns a useful summary.
