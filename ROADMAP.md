@@ -511,7 +511,7 @@ Examples:
 
 ---
 
-# Stage 11 - Specialization
+# Stage 11 - [Specialization](11-Specializations/README.md)
 
 After learning the foundations, students can choose areas they want to explore more deeply.
 
