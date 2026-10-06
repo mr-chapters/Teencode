@@ -8,7 +8,7 @@ Students should move through the roadmap in order when possible. Some topics can
 
 ---
 
-## Stage 0 - Getting Started
+## Stage 0 - [Getting Started](00-Getting-Started/README.md)
 
 Before writing serious code, students should understand what programming is and how developers work.
 
@@ -42,6 +42,8 @@ Students should be comfortable opening a project, creating files, running simple
 ---
 
 # Stage 1 - Programming Fundamentals
+
+[Open the Programming Fundamentals lessons](00-Getting-Started/README.md)
 
 Programming fundamentals are the foundation for every language that comes later.
 
@@ -96,7 +98,7 @@ Students should also learn how to:
 
 ---
 
-# Stage 2 - HTML
+# Stage 2 - [HTML](01-HTML/README.md)
 
 HTML is used to structure webpages.
 
@@ -136,7 +138,7 @@ Students should be able to create a complete webpage using HTML without copying 
 
 ---
 
-# Stage 3 - CSS
+# Stage 3 - [CSS](02-CSS/README.md)
 
 CSS controls the appearance and layout of webpages.
 
@@ -180,7 +182,7 @@ Students should understand why a page looks the way it does and be able to creat
 
 ---
 
-# Stage 4 - JavaScript
+# Stage 4 - [JavaScript](03-JavaScript/README.md)
 
 JavaScript adds behavior and logic to webpages.
 
@@ -228,7 +230,7 @@ Students should be able to create webpages that respond to user actions and comm
 
 ---
 
-# Stage 5 - Python
+# Stage 5 - [Python](04-Python/README.md)
 
 Python teaches general-purpose programming and prepares students for backend development, automation, data work, and other areas of software development.
 
@@ -276,7 +278,7 @@ Students should be able to write useful Python programs and understand the princ
 
 ---
 
-# Stage 6 - Git and GitHub
+# Stage 6 - [Git and GitHub](05-Git-and-GitHub/README.md)
 
 Students learn how professional developers manage code.
 
@@ -312,7 +314,7 @@ Students should be able to store, manage, share, and collaborate on code using G
 
 ---
 
-# Stage 7 - Web Development
+# Stage 7 - [Web Development](06-Web-Development/README.md)
 
 Now the individual technologies are combined into complete web applications.
 
@@ -377,7 +379,7 @@ Topics include:
 
 ---
 
-# Stage 8 - Application Development
+# Stage 8 - [Application Development](07-Application-Development/README.md)
 
 Students learn how the same programming concepts can be used to create applications beyond ordinary webpages.
 
@@ -419,7 +421,7 @@ The exact framework or platform can be introduced after the fundamentals are und
 
 ---
 
-# Stage 9 - Game Development
+# Stage 9 - [Game Development](08-Game-Development/README.md)
 
 Game development teaches programming through interactive projects.
 
@@ -466,7 +468,7 @@ Students will gradually learn the mathematics needed for games, including:
 
 ---
 
-# Stage 10 - Real-World Development
+# Stage 10 - [Real-World Development](10-Real-World-Development/README.md)
 
 Students now learn how software projects are developed outside of tutorials.
 
