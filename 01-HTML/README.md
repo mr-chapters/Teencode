@@ -1,9 +1,12 @@
-# 01 HTML
+# HTML
 
-This section is part of the TeenCode curriculum.
-
-Lessons will be added here step by step.
+HTML gives webpages their structure and meaning.
 
 ## Lessons
+1. [HTML Basics](01-html-basics.md)
+2. [Text, Links, and Images](02-text-links-images.md)
+3. [Lists, Tables, and Forms](03-lists-tables-forms.md)
+4. [Semantic HTML](04-semantic-html.md)
+5. [HTML Project](project-personal-page.md)
 
-Lesson pages will appear here as the section is built.
+Next: [CSS](../02-CSS/README.md)
