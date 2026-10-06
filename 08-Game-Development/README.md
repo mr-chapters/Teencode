@@ -1,9 +1,12 @@
-# 08 Game Development
+# Game Development
 
-This section is part of the TeenCode curriculum.
-
-Lessons will be added here step by step.
+Learn the programming ideas behind interactive games.
 
 ## Lessons
+1. [Game Loops](01-game-loop.md)
+2. [Input and Movement](02-input-movement.md)
+3. [Collisions and Rules](03-collisions.md)
+4. [Game State and Levels](04-game-state.md)
+5. [Game Project](project-game.md)
 
-Lesson pages will appear here as the section is built.
+Next: [Projects](../09-Projects/README.md)
