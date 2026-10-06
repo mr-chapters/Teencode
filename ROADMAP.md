@@ -260,6 +260,8 @@ Python teaches general-purpose programming and prepares students for backend dev
 - Installing packages
 - Working with JSON
 - Using APIs
+- Packages and virtual environments
+- Testing Python programs
 
 ### Projects
 
@@ -408,7 +410,7 @@ Students can explore:
 - Backend services
 - Automation tools
 
-The exact framework or platform can be introduced after the fundamentals are understood.
+The exact framework or platform can be introduced after the fundamentals are understood. Learners should not be pushed into frameworks before they understand the underlying programming concepts.
 
 ### Projects
 
