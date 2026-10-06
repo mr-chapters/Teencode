@@ -96,6 +96,7 @@ Click a section below to open its lessons:
 - [08 - Game Development](08-Game-Development/README.md)
 - [09 - Projects](09-Projects/README.md)
 - [10 - Real-World Development](10-Real-World-Development/README.md)
+- [11 - Specializations](11-Specializations/README.md)
 
 ## Planned Curriculum
 
