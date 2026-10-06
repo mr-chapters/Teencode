@@ -8,7 +8,7 @@ You do not need to be an expert before starting. You do not need a computer scie
 
 ## What TeenCode Teaches
 
-The curriculum is planned to cover the skills commonly needed to become a capable developer:
+The curriculum covers:
 
 - Programming fundamentals
 - HTML and web page structure
@@ -16,8 +16,7 @@ The curriculum is planned to cover the skills commonly needed to become a capabl
 - JavaScript and web programming
 - Python
 - Git and GitHub
-- APIs
-- Databases and data
+- APIs and data
 - Front-end development
 - Back-end development
 - Application development
@@ -27,7 +26,7 @@ The curriculum is planned to cover the skills commonly needed to become a capabl
 - Basic software engineering
 - Building and documenting real projects
 
-The lessons will focus on understanding how things work, not just copying code.
+The lessons focus on understanding how things work, not just copying code.
 
 ## Who Is This For?
 
@@ -45,19 +44,18 @@ You do not have to know another programming language before starting.
 
 ## How The Curriculum Works
 
-The curriculum is organized so that each stage builds on the previous one.
+Each lesson is designed to follow the same learning cycle:
 
-A typical lesson should contain:
+1. **Learn** — understand the idea in plain language.
+2. **See** — study a small working example.
+3. **Run** — type the example and run it yourself.
+4. **Change** — modify the example and predict what will happen.
+5. **Practice** — complete small exercises without copying.
+6. **Challenge** — solve a slightly harder problem.
+7. **Build** — use several concepts together in a project.
+8. **Explain** — make sure you can describe why your code works.
 
-1. A clear explanation of the concept
-2. Simple examples
-3. Code examples
-4. An explanation of what the code is doing
-5. Small exercises
-6. A practical challenge
-7. A project when appropriate
-
-The aim is to gradually move from understanding individual concepts to combining them into complete programs.
+If a lesson contains code, learners should type it themselves instead of only reading it.
 
 ## Learning Philosophy
 
@@ -71,7 +69,7 @@ Reading about programming is useful, but writing programs is where most learning
 
 ### Start simple
 
-Programming can become complicated quickly. TeenCode will introduce difficult ideas gradually instead of assuming beginners already understand them.
+Programming can become complicated quickly. TeenCode introduces difficult ideas gradually instead of assuming beginners already understand them.
 
 ### Build real things
 
@@ -79,7 +77,7 @@ Projects are an important part of the curriculum. Learners should eventually be 
 
 ### Mistakes are part of programming
 
-Errors are normal. Debugging is not a sign that you are bad at programming. It is one of the main skills developers develop.
+Errors are normal. Debugging is one of the main skills developers develop.
 
 ## Start Learning
 
@@ -98,195 +96,57 @@ Click a section below to open its lessons:
 - [10 - Real-World Development](10-Real-World-Development/README.md)
 - [11 - Specializations](11-Specializations/README.md)
 
-## Planned Curriculum
+## The Core Languages and Technologies
 
-### 00 - Getting Started
+TeenCode deliberately focuses on a small core instead of trying to teach every language at once.
 
-Introduction to programming, development tools, files and folders, the command line, editors, and how to approach learning to code.
+### HTML
 
-### 01 - HTML
+HTML is the structure and meaning of webpages.
 
-Learn how websites are structured.
+Learners study elements, attributes, links, images, forms, semantic HTML, media, and accessibility.
 
-Topics will include:
+Start here: [HTML lessons](01-HTML/README.md)
 
-- Elements and tags
-- Attributes
-- Headings and paragraphs
-- Links
-- Images
-- Lists
-- Tables
-- Forms
-- Semantic HTML
-- Accessibility basics
+### CSS
 
-### 02 - CSS
+CSS controls presentation and layout.
 
-Learn how to control the appearance and layout of websites.
+Learners study selectors, the cascade, the box model, typography, Flexbox, Grid, responsive design, and practical layouts.
 
-Topics will include:
+Start here: [CSS lessons](02-CSS/README.md)
 
-- Selectors
-- Properties and values
-- Colors
-- Fonts
-- The box model
-- Display
-- Positioning
-- Flexbox
-- Grid
-- Responsive design
-- Media queries
-- Transitions and basic animations
+### JavaScript
 
-### 03 - JavaScript
+JavaScript is the main programming language in the web curriculum.
 
-Learn programming through one of the main languages used on the web.
+Learners study variables, types, operators, conditions, loops, functions, arrays, objects, scope, errors, DOM manipulation, events, asynchronous programming, APIs, and modules.
 
-Topics will include:
+Start here: [JavaScript lessons](03-JavaScript/README.md)
 
-- Variables
-- Data types
-- Operators
-- Conditions
-- Loops
-- Functions
-- Arrays
-- Objects
-- Scope
-- DOM manipulation
-- Events
-- Forms
-- Error handling
-- Asynchronous JavaScript
-- Fetching data from APIs
+### Python
 
-### 04 - Python
+Python is the main general-purpose programming language in the core curriculum.
 
-Learn a general-purpose programming language useful for automation, applications, data work, and many other areas.
+Learners study variables, types, input, conditions, loops, functions, collections, strings, files, errors, modules, comprehensions, classes, objects, JSON, and APIs.
 
-Topics will include:
+Start here: [Python lessons](04-Python/README.md)
 
-- Variables and data types
-- Conditions
-- Loops
-- Functions
-- Lists
-- Dictionaries
-- Sets and tuples
-- Files
-- Modules
-- Exceptions
-- Object-oriented programming
-- Working with APIs
-- Small practical programs
-
-### 05 - Git and GitHub
-
-Learn how developers manage code and collaborate.
-
-Topics will include:
-
-- What Git is
-- Repositories
-- Commits
-- Branches
-- Merging
-- Pull requests
-- GitHub repositories
-- Issues
-- README files
-- Collaboration
-- Basic open-source workflow
-
-### 06 - Web Development
-
-Combine HTML, CSS, and JavaScript to build complete websites.
-
-Projects may include:
-
-- Personal websites
-- Landing pages
-- Interactive websites
-- Forms
-- Dashboards
-- Small web applications
-
-### 07 - Application Development
-
-Learn how programming fundamentals can be used to create applications.
-
-This section will introduce the concepts needed to move from small scripts to larger applications.
-
-### 08 - Game Development
-
-Learn programming concepts through games.
-
-Topics may include:
-
-- Game loops
-- Input
-- Movement
-- Collision
-- Game states
-- User interfaces
-- Basic game physics
-- Project organization
-
-The exact tools used here may change as the curriculum develops.
-
-### 09 - Projects
-
-This section will contain larger projects that combine multiple skills.
-
-Projects will increase in difficulty so learners can see their progress.
-
-### 10 - Real-World Development
-
-Programming is more than writing code.
-
-This section will cover:
-
-- Debugging
-- Reading documentation
-- Searching for solutions
-- Writing useful README files
-- Organizing projects
-- Working with other developers
-- Basic security awareness
-- Testing
-- Maintaining projects
-- Presenting your work
-
-## Languages
-
-TeenCode will focus on learning languages properly rather than trying to teach every programming language that exists.
-
-The main languages planned for the core curriculum are:
-
-- HTML
-- CSS
-- JavaScript
-- Python
-
-Additional languages or technologies may be introduced when they are useful for a particular project.
-
-The goal is to give learners strong programming fundamentals that make learning other languages easier later.
+The point is not to memorize four technologies. The point is to develop transferable programming skills.
 
 ## Projects Matter
 
-A major part of TeenCode will be project-based learning.
+A major part of TeenCode is project-based learning.
 
-Instead of stopping after understanding a topic, learners will use it.
+Instead of stopping after understanding a topic, learners use it.
 
-For example:
+Examples:
 
-**Beginner:** Build a simple personal webpage.
+**Beginner:** Build a personal webpage or simple Python program.
 
 **Early Intermediate:** Build an interactive webpage using JavaScript.
 
-**Intermediate:** Build a small application that stores and retrieves data.
+**Intermediate:** Build a small application that stores and works with data.
 
 **Advanced:** Build a larger project that combines a front end, back end, APIs, and a database.
 
@@ -326,8 +186,6 @@ When contributing, remember that the main audience is beginners. A technically c
 
 ## Repository Structure
 
-The repository will gradually be organized approximately like this:
-
     TeenCode/
     ├── README.md
     ├── ROADMAP.md
@@ -342,15 +200,14 @@ The repository will gradually be organized approximately like this:
     ├── 07-Application-Development/
     ├── 08-Game-Development/
     ├── 09-Projects/
-    └── 10-Real-World-Development/
-
-The structure may change as the curriculum grows.
+    ├── 10-Real-World-Development/
+    └── 11-Specializations/
 
 ## Important
 
 TeenCode is a learning project, not a replacement for formal education or professional training.
 
-Technology also changes quickly. Some examples, tools, and recommended practices may become outdated. When that happens, the curriculum should be updated rather than treating old information as permanently correct.
+Technology changes quickly. Examples, tools, and recommended practices may become outdated. When that happens, the curriculum should be updated rather than treating old information as permanently correct.
 
 ## The Goal
 
@@ -358,4 +215,4 @@ The goal of TeenCode is not simply to teach someone how to write code.
 
 The goal is to help young people become capable of looking at a problem, breaking it into smaller parts, learning what they need, writing a solution, testing it, finding mistakes, and improving it.
 
-If a learner finishes the curriculum able to build something of their own and understand the code they wrote, TeenCode has done its job.
+If a learner finishes the curriculum able to build something of their own and explain the code they wrote, TeenCode has done its job.
