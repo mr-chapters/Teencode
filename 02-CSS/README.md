@@ -1,9 +1,12 @@
-# 02 CSS
+# CSS
 
-This section is part of the TeenCode curriculum.
-
-Lessons will be added here step by step.
+CSS controls the presentation of webpages.
 
 ## Lessons
+1. [CSS Basics](01-css-basics.md)
+2. [Selectors and Specificity](02-selectors.md)
+3. [Box Model and Layout](03-box-model-layout.md)
+4. [Responsive Design](04-responsive-design.md)
+5. [CSS Project](project-styled-site.md)
 
-Lesson pages will appear here as the section is built.
+Next: [JavaScript](../03-JavaScript/README.md)
